@@ -22,7 +22,8 @@ else if(num2>num1) {
     {
     System.out.println("Es mayor");
 }
-lectura.close();
 }
-        }
-    }
+        
+        lectura.close();
+}
+}

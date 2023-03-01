@@ -1,4 +1,8 @@
-package dmahecha-java.gyh;
+package ejercicios;
+
+import java.util.Scanner;
+import java.util.Random;
+
 
 public class eje { 
     public static void main(String[] args) throws Exception {
@@ -11,4 +15,6 @@ public class eje {
         int precioOne;
         int totalOne;
         System.out.println("El resultado es "+cantidadOne*precioOne);
+}
+
 }
